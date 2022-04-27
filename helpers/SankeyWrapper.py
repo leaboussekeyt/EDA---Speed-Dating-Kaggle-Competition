@@ -1,7 +1,8 @@
 """"
 
 
-The below genSankey function is a wrapper for plotly with Pandas provided by Ken Lok (github:ken333135), which can be found at the link below:
+The below genSankey function is a wrapper for plotly with Pandas provided by Ken Lok, which can be found at the links below:
+https://gist.github.com/ken333135/09f8793fff5a6df28558b17e516f91ab
 https://medium.com/kenlok/how-to-create-sankey-diagrams-from-dataframes-in-python-e221c1b4d6b0
 
 """
